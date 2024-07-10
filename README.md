@@ -5,7 +5,7 @@
 
 - 🌱 I’m currently learning Backend using Django **Xware Bootcamp**
 
-- 🤝 I’m looking for help with Data science and Machine learning Jobs **Etma2n website with an AI prompt to help the patients on the website**
+- 🤝 I’m looking for help with Data science and Machine learning Jobs **I'm Currently working on Etma2n website with an AI prompt to help the patients on the website**
 
 - 👨‍💻 All of my projects are available at [it will be available later on my github profile](it will be available later on my github profile)
 
