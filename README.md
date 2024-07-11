@@ -7,7 +7,7 @@
 
 - 🤝 I’m looking for help with Data science and Machine learning Jobs **I'm Currently working on Etma2n website with an AI prompt to help the patients on the website**
 
-- 👨‍💻 All of my projects are available at [it will be available later on my github profile](it will be available later on my github profile)
+- 👨‍💻 All of my projects are available at [it will be available later on my github profile]
 
 - 💬 Ask me about **C++,Java,git/github,Python**
 
