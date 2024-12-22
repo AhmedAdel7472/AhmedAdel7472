@@ -1,11 +1,9 @@
 <h1 align="center">Hi 👋, I'm Ahmed Adel Rasmy Hamad</h1>
-<h3 align="center">A passionate Machine Learning and Backend-Engineer</h3>
+<h3 align="center">A passionate Data Scientist and Backend-Engineer</h3>
 
 - 🔭 Currently Working on Data science and Machine learning **Digital Egypt Pioneers Scholarship**
 
 - 🌱 I’m currently learning Backend using Django **Xware Bootcamp**
-
-- 🤝 I’m looking for help with Data science and Machine learning Jobs **I'm Currently working on Etma2n website with an AI prompt to help the patients on the website**
 
 - 👨‍💻 All of my projects are available at [it will be available later on my github profile]
 
